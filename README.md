@@ -1,7 +1,7 @@
 # Ujian Akhir Semester 
 <br>Mata Kuliah 	: Dasar Pemrograman
 <br> Nama		: Adly Juliarta Lerian
-<br>NIM		:	1227050007
+<br>NIM			: 1227050007
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
@@ -13,12 +13,12 @@ Tujuan utama dari source code ini adalah untuk mengubah posisi suatu nilai dari 
 <br> 4.Jika ya, nilai tabel ditampilkan sesuai dengan aturan matriks.
 <br> 5.Kemudian nilai tabel yang dibalik ditampilkan, dari baris ke kolom dan sebaliknya.
 ## Source Code
-codingan (1)
-#include<iostream>
-using namespace std;
+	codingan (1)
+	#include<iostream>
+	using namespace std;
 
-int main()
-{
+	int main()
+	{
 	int input [100][100];
 	int baris, kolom, i, j;
 	
@@ -54,11 +54,11 @@ int main()
 		cout << endl;
 	}
   
-  codingan (2)
-  #include <iostream>
-using namespace std;
+	codingan (2)
+	#include <iostream>
+	using namespace std;
 
-int main (){
+	int main (){
 	int A [20][20];
 	int b, k, i, j;
 	cout << "Masukkan jumlah baris : ";
@@ -94,7 +94,7 @@ int main (){
 		cout<<angka[i]<<", ";
 
 	}
-}
+	}
 ## Output
 screenshoot(1)
 ![Screenshot (23)](https://user-images.githubusercontent.com/121163818/209268835-30e59e61-3ac3-4bbf-ad3f-fcfc07b58d75.png)
